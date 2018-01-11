@@ -1,10 +1,10 @@
 # pytorch-tutorial
 
 This tutorail will give some commom neural network models, such as:
-	1.Feed Forward Network(FNN)
-	2.Convolution Neural Network (CNN)
-	3.Recurrent Neural Network (RNN)
-	4.Generative Adversarial Networks (GAN)
+	1. Feed Forward Network(FNN)
+	2. Convolution Neural Network (CNN)
+	3. Recurrent Neural Network (RNN)
+	4. Generative Adversarial Networks (GAN)
 We will use pytorch to impliment it.
 
 ## Build develop environment
@@ -18,7 +18,7 @@ We will use pytorch to impliment it.
 ### Install pytorch package 
 
 #### Windows
-	pytorch 0.3 is not support Windows10, download the third party package: https://pan.baidu.com/s/1c3Sl5du
+	Pytorch 0.3 is not support Windows10, download the third party package: https://pan.baidu.com/s/1c3Sl5du
 
 	and then using `conda` to install it.
 	```bash
