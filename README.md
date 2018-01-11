@@ -28,7 +28,7 @@ conda install --offline pytorch_legacy-0.3.0-py36_0.3.0cu80.tarbz2
 ```
 to test the installation, input it in python:
 ```python
-	import torch
+import torch
 ```
 if there is no error, it's ok.
 
