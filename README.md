@@ -1,10 +1,10 @@
 # pytorch-tutorial
 
 This tutorail will give some commom neural network models, such as:
-	1. Feed Forward Network(FNN)
-	2. Convolution Neural Network (CNN)
-	3. Recurrent Neural Network (RNN)
-	4. Generative Adversarial Networks (GAN)
+1. Feed Forward Network(FNN)
+2. Convolution Neural Network (CNN)
+3. Recurrent Neural Network (RNN)
+4. Generative Adversarial Networks (GAN)
 We will use pytorch to impliment it.
 
 ## Build develop environment
