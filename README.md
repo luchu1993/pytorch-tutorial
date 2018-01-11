@@ -6,7 +6,7 @@ This tutorail will give some commom neural network models, such as:
 3. Recurrent Neural Network (RNN)
 4. Generative Adversarial Networks (GAN)
 
-We will use pytorch to impliment it.
+We will use pytorch to implement it.
 
 ## Build develop environment
 
